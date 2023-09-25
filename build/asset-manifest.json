@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d61d3d8c.css",
+    "main.js": "/static/js/main.5196d400.js",
+    "static/js/845.6009fa11.chunk.js": "/static/js/845.6009fa11.chunk.js",
+    "static/js/787.9dad8710.chunk.js": "/static/js/787.9dad8710.chunk.js",
+    "static/media/bg_music.mp3": "/static/media/bg_music.12a4fb21e7a7088f4ee5.mp3",
+    "static/media/Old_paper.jpg": "/static/media/Old_paper.3d7faa2463916e4fc3c6.jpg",
+    "static/media/thinking.mp3": "/static/media/thinking.29e19f183b3375a0a49a.mp3",
+    "static/media/hogwarts_logo.png": "/static/media/hogwarts_logo.0805f409f348339bcd21.png",
+    "static/media/ravenclaw.mp3": "/static/media/ravenclaw.6436f170cd5d309356a7.mp3",
+    "static/media/HPfont.ttf": "/static/media/HPfont.a65869c0c1a4b3d4fcfc.ttf",
+    "static/media/Potter.otf": "/static/media/Potter.ac5e79fc646a0c4f1684.otf",
+    "static/media/gryffindor.mp3": "/static/media/gryffindor.b0c53e5ddbce530d10d7.mp3",
+    "static/media/hufflepuff.mp3": "/static/media/hufflepuff.5ec5b1a3fdfa5209d17a.mp3",
+    "static/media/slytherin.mp3": "/static/media/slytherin.c01fbe33e931e8b5c7bb.mp3",
+    "index.html": "/index.html",
+    "main.d61d3d8c.css.map": "/static/css/main.d61d3d8c.css.map",
+    "main.5196d400.js.map": "/static/js/main.5196d400.js.map",
+    "845.6009fa11.chunk.js.map": "/static/js/845.6009fa11.chunk.js.map",
+    "787.9dad8710.chunk.js.map": "/static/js/787.9dad8710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d61d3d8c.css",
+    "static/js/main.5196d400.js"
+  ]
+}
